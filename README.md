@@ -1,4 +1,7 @@
-# 👋 Hi, I’m Aneesha  
+# 👋 Hi, I’m Aneesha
+💼 **Data Science Intern | Python Developer | Aspiring Data Scientist**  
+🤖 **AI & Machine Learning Enthusiast | Kaggle & CodeChef Learner | Ex-Physics Educator**  
+
 🔢 **Interests:** Mathematics & Programming  
 📊 **Currently Learning:** Data Science  
 🤝 **Looking to Collaborate On:** Open-source projects in Python, Data Science, or AI  
